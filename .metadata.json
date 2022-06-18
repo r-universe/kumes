@@ -1,0 +1,10 @@
+[
+  {
+    "package": "GoogleImage2Array",
+    "oncran": true
+  },
+  {
+    "package": "seasonalityPlot",
+    "oncran": true
+  }
+]
