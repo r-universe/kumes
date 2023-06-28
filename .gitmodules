@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "GoogleImage2Array"]
 	path = GoogleImage2Array
 	url = https://github.com/kumes/googleimage2array
-	shallow = true
-	registered = true
 [submodule "seasonalityPlot"]
 	path = seasonalityPlot
 	url = https://github.com/kumes/seasonalityplot
-	shallow = true
-	registered = true
