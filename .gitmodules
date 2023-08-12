@@ -5,6 +5,9 @@
 [submodule "GoogleImage2Array"]
 	path = GoogleImage2Array
 	url = https://github.com/kumes/googleimage2array
+[submodule "chatAI4R"]
+	path = chatAI4R
+	url = https://github.com/kumes/chatai4r
 [submodule "seasonalityPlot"]
 	path = seasonalityPlot
 	url = https://github.com/kumes/seasonalityplot
