@@ -8,6 +8,9 @@
 [submodule "chatAI4R"]
 	path = chatAI4R
 	url = https://github.com/kumes/chatai4r
+[submodule "deepRstudio"]
+	path = deepRstudio
+	url = https://github.com/kumes/deeprstudio
 [submodule "seasonalityPlot"]
 	path = seasonalityPlot
 	url = https://github.com/kumes/seasonalityplot
